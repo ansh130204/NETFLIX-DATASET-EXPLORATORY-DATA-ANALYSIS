@@ -1,5 +1,8 @@
 # 🎬 Netflix EDA Analysis
-
+<p align="center">
+  <img src="images/netflix.png" alt="Netflix Logo" width="250" 
+       style="border-radius: 10px; box-shadow: 0 0 15px rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);"/>
+</p>
 ## 📊 Project Overview
 This project explores the **Netflix Movies and TV Shows dataset** to uncover insights about content trends, duration patterns, top creators, and platform diversity. Using **Exploratory Data Analysis (EDA)**, the project identifies meaningful patterns that reflect Netflix’s global content strategy and user-oriented programming decisions.
 
